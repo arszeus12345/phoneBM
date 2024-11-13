@@ -1,0 +1,198 @@
+[
+    {
+    "Title": "Samsung Galaxy A5",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2017-new.jpg",
+    "Ram": "3GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 7880"
+    },
+    {
+    "Title": "Samsung Galaxy A6",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a6-2018-.jpg",
+    "Ram": "3GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 7870"
+    },
+    {
+    "Title": "Samsung Galaxy A6+",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a6-plus-2018-.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Snapdragon 450"
+    },
+    {
+    "Title": "Samsung Galaxy A7",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-2017.jpg",
+    "Ram": "3GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 7880"
+    },
+    {
+    "Title": "Samsung Galaxy A8",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-a530f.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 7885"
+    },
+    {
+    "Title": "Samsung Galaxy J6",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j6-j600.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 7870"
+    },
+    {
+    "Title": "Samsung Galaxy J7+",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Media Tek Helio P25 Lite"
+    },
+    {
+    "Title": "Samsung Galaxy J7",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-pro.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 7870"
+    },
+    {
+    "Title": "Samsung Galaxy J8",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j8-j800.jpg",
+    "Ram": "3GB",
+    "Rom": "32GB",
+    "Cpu": "Snapdragon 450"
+    },
+    {
+    "Title": "Samsung Galaxy S7",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7--.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 8890"
+    },
+    {
+    "Title": "Samsung Galaxy S7e",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 8890"
+    },
+    {
+    "Title": "Samsung Galaxy S8/S8+ (F/N)",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-.jpg",
+    "Ram": "4GB",
+    "Rom": "64GB",
+    "Cpu": "Exynos 8895, Snapdrapgon 835"
+    },
+    {
+    "Title": "Samsung Galaxy S8/S8+ (U)",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 8895, Snapdrapgon 835"
+    },
+    {
+    "Title": "Samsung Galaxy S9",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-.jpg",
+    "Ram": "4GB",
+    "Rom": "64GB",
+    "Cpu": "Exynos 9810, Snapdragon 845"
+    },
+    {
+    "Title": "Samsung Galaxy S9+",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-plus-blue.jpg",
+    "Ram": "6GB",
+    "Rom": "64GB",
+    "Cpu": "Exynos 9810 Snapdragon 845"
+    },
+    {
+    "Title": "Samsung Galaxy S10",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10.jpg",
+    "Ram": "8GB",
+    "Rom": "128GB",
+    "Cpu": "Exynos 9820, Snapdragon 855"
+    },
+    {
+    "Title": "Samsung Galaxy S10+",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-plus-new.jpg",
+    "Ram": "8GB",
+    "Rom": "128GB",
+    "Cpu": "Exynos 8895, Snapdrapgon 835"
+    },
+    {
+    "Title": "Samsung Galaxy S10 5G",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-5g.jpg",
+    "Ram": "8GB",
+    "Rom": "256GB",
+    "Cpu": "Exynos 9820"
+    },
+    {
+    "Title": "Samsung Galaxy S10e",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10e.jpg",
+    "Ram": "6GB",
+    "Rom": "128GB",
+    "Cpu": "Exynos 9820"
+    },
+    {
+    "Title": "Samsung Galaxy S20/S20+",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-.jpg",
+    "Ram": "8GB",
+    "Rom": "128GB",
+    "Cpu": "Exynos 990, Snapdragon 865"
+    },
+    {
+    "Title": "Samsung Galaxy Note 5",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 7420"
+    },
+    {
+    "Title": "Samsung Galaxy Note 8(F/N)",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-8-sm-n950.jpg",
+    "Ram": "6GB",
+    "Rom": "64GB",
+    "Cpu": "Exynos 8895"
+    },
+    {
+    "Title": "Samsung Galaxy Note 8(U)",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-8-sm-n950.jpg",
+    "Ram": "6GB",
+    "Rom": "64GB",
+    "Cpu": "Exynos 8895"
+    },
+    {
+    "Title": "Samsung Galaxy Note 9",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note9-r1.jpg",
+    "Ram": "6GB",
+    "Rom": "128GB",
+    "Cpu": "Exynos 9810"
+    },
+    {
+    "Title": "Samsung Galaxy Note 10",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note10-.jpg",
+    "Ram": "4GB",
+    "Rom": "32GB",
+    "Cpu": "Exynos 7870"
+    },
+    {
+    "Title": "Samsung Galaxy Note 10+",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note10-plus-.jpg",
+    "Ram": "12GB",
+    "Rom": "256GB",
+    "Cpu": "Exynos 9825, Snapdragon 855"
+    },
+    {
+    "Title": "Samsung Galaxy Z Flip 1-2",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip-01.jpg",
+    "Ram": "8GB",
+    "Rom": "128GB",
+    "Cpu": "Snapdragon 855+"
+    },
+    {
+    "Title": "Samsung Galaxy Z Flip 3-4",
+    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip4-5g.jpg",
+    "Ram": "8GB",
+    "Rom": "128GB",
+    "Cpu": "Snapdragon 888"
+    }
+    ]
