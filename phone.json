@@ -1,226 +1,310 @@
 [
-{
-"Id": 1,
-"Title": "Samsung Galaxy A5",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2017-new.jpg",
-"Ram": "3GB",
-"Rom": "32GB",
-"Cpu": "Exynos 7880"
-},
-{
-"Id": 2,
-"Title": "Samsung Galaxy A6",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a6-2018-.jpg",
-"Ram": "3GB",
-"Rom": "32GB",
-"Cpu": "Exynos 7870"
-},
-{
-"Id": 3,
-"Title": "Samsung Galaxy A6+",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a6-plus-2018-.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Snapdragon 450"
-},
-{
-"Id": 4,
-"Title": "Samsung Galaxy A7",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-2017.jpg",
-"Ram": "3GB",
-"Rom": "32GB",
-"Cpu": "Exynos 7880"
-},
-{
-"Id": 5,
-"Title": "Samsung Galaxy A8",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-a530f.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Exynos 7885"
-},
-{
-"Id": 6,
-"Title": "Samsung Galaxy J6",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j6-j600.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Exynos 7870"
-},
-{
-"Id": 7,
-"Title": "Samsung Galaxy J7+",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Media Tek Helio P25 Lite"
-},
-{
-"Id": 8,
-"Title": "Samsung Galaxy J7",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-pro.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Exynos 7870"
-},
-{
-"Id": 9,
-"Title": "Samsung Galaxy J8",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j8-j800.jpg",
-"Ram": "3GB",
-"Rom": "32GB",
-"Cpu": "Snapdragon 450"
-},
-{
-"Id": 10,
-"Title": "Samsung Galaxy S7",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7--.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Exynos 8890"
-},
-{
-"Id": 11,
-"Title": "Samsung Galaxy S7e",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Exynos 8890"
-},
-{
-"Id": 12,
-"Title": "Samsung Galaxy S8/S8+ (F/N)",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-.jpg",
-"Ram": "4GB",
-"Rom": "64GB",
-"Cpu": "Exynos 8895, Snapdrapgon 835"
-},
-{
-"Id": 13,
-"Title": "Samsung Galaxy S8/S8+ (U)",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Exynos 8895, Snapdrapgon 835"
-},
-{
-"Id": 14,
-"Title": "Samsung Galaxy S9",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-.jpg",
-"Ram": "4GB",
-"Rom": "64GB",
-"Cpu": "Exynos 9810, Snapdragon 845"
-},
-{
-"Id": 15,
-"Title": "Samsung Galaxy S9+",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-plus-blue.jpg",
-"Ram": "6GB",
-"Rom": "64GB",
-"Cpu": "Exynos 9810 Snapdragon 845"
-},
-{
-"Id": 16,
-"Title": "Samsung Galaxy S10",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10.jpg",
-"Ram": "8GB",
-"Rom": "128GB",
-"Cpu": "Exynos 9820, Snapdragon 855"
-},
-{
-"Id": 17,
-"Title": "Samsung Galaxy S10+",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-plus-new.jpg",
-"Ram": "8GB",
-"Rom": "128GB",
-"Cpu": "Exynos 8895, Snapdrapgon 835"
-},
-{
-"Id": 18,
-"Title": "Samsung Galaxy S10 5G",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-5g.jpg",
-"Ram": "8GB",
-"Rom": "256GB",
-"Cpu": "Exynos 9820"
-},
-{
-"Id": 19,
-"Title": "Samsung Galaxy S10e",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10e.jpg",
-"Ram": "6GB",
-"Rom": "128GB",
-"Cpu": "Exynos 9820"
-},
-{
-"Id": 20,
-"Title": "Samsung Galaxy S20/S20+",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-.jpg",
-"Ram": "8GB",
-"Rom": "128GB",
-"Cpu": "Exynos 990, Snapdragon 865"
-},
-{
-"Id": 21,
-"Title": "Samsung Galaxy Note 5",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Exynos 7420"
-},
-{
-"Id": 22,
-"Title": "Samsung Galaxy Note 8(F/N)",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-8-sm-n950.jpg",
-"Ram": "6GB",
-"Rom": "64GB",
-"Cpu": "Exynos 8895"
-},
-{
-"Id": 23,
-"Title": "Samsung Galaxy Note 8(U)",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-8-sm-n950.jpg",
-"Ram": "6GB",
-"Rom": "64GB",
-"Cpu": "Exynos 8895"
-},
-{
-"Id": 24,
-"Title": "Samsung Galaxy Note 9",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note9-r1.jpg",
-"Ram": "6GB",
-"Rom": "128GB",
-"Cpu": "Exynos 9810"
-},
-{
-"Id": 25,
-"Title": "Samsung Galaxy Note 10",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note10-.jpg",
-"Ram": "4GB",
-"Rom": "32GB",
-"Cpu": "Exynos 7870"
-},
-{
-"Id": 26,
-"Title": "Samsung Galaxy Note 10+",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note10-plus-.jpg",
-"Ram": "12GB",
-"Rom": "256GB",
-"Cpu": "Exynos 9825, Snapdragon 855"
-},
-{
-"Id": 27,
-"Title": "Samsung Galaxy Z Flip 1-2",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip-01.jpg",
-"Ram": "8GB",
-"Rom": "128GB",
-"Cpu": "Snapdragon 855+"
-},
-{
-"Id": 28,
-"Title": "Samsung Galaxy Z Flip 3-4",
-"ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip4-5g.jpg",
-"Ram": "8GB",
-"Rom": "128GB",
-"Cpu": "Snapdragon 888"
-}
+    {
+        "Id": 1,
+        "Title": "Samsung Galaxy A5",
+        "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736c383fdb3c20054c354ba",
+        "Ram": "3GB",
+        "Rom": "32GB",
+        "Cpu": "Octa-core 1.9 GHz Cortex-A53",
+        "Chip":"Exynos 7880",
+        "Code":"A520F - A520F/DS",
+        "System":"Android 6.0.1 (Marshmallow), nâng cấp lên tới Android 8.0 (Oreo)"
+      },
+      {
+        "Id": 2,
+        "Title": "Samsung Galaxy A6",
+        "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736bc45d132980055e2c15b",
+        "Ram": "3GB",
+        "Rom": "32GB",
+        "Cpu": "Octa-core 1.6 GHz Cortex-A53",
+        "Chip":"Exynos 7870",
+        "Code":"SM-A600G/DS",
+        "System":"Android 8.0 (Oreo), upgradable to Android 10, One UI 2.0"
+        },
+        {
+        "Id": 3,
+        "Title": "Samsung Galaxy A6+",
+        "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736ced4fdb3c20054c355b8",
+        "Ram": "3/4 GB",
+        "Rom": "32/64 GB",
+        "Cpu": "Octa-core 1.8 GHz Cortex-A53",
+        "Chip":"Snapdragon 450",
+        "Code":"Đang cập nhật",
+        "System":"Android 8.0 (Oreo), upgradable to Android 9.0 (Pie), One UI"       
+        },
+        {
+        "Id": 4,
+        "Title": "Samsung Galaxy A7",
+        "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736ce89c7880400553d5f94",
+        "Ram": "3GB",
+        "Rom": "32GB",
+        "Cpu": "OOcta-core 1.9 GHz Cortex-A53",
+        "Chip":"Exynos 7880",
+        "Code":"A720F - A720F/DS",
+        "System":"Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)"  
+        },
+        {
+        "Id": 5,
+        "Title": "Samsung Galaxy A8",
+        "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736cf32fdb3c20054c355c8",
+        "Ram": "4GB",
+        "Rom": "32/64 GB",
+        "Cpu": "Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)",
+        "Chip":"Exynos 7885",
+        "Code":"A530F -  A530F/DS",
+        "System":"Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie), One UI"  
+        },
+        {
+            "Id": 6,
+            "Title": "Samsung Galaxy J6",
+            "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j6-j600.jpg",
+            "Ram": "2/3/4 GB",
+            "Rom": "32/64 GB",
+            "Cpu": "Octa-core 1.6 GHz Cortex-A53",
+            "Chip":"Exynos 7870",
+            "Code":"J600L",
+            "System":"Android 8.0 (Oreo), upgradable to Android 10, One UI 2.0"
+        },
+        {
+            "Id": 7,
+            "Title": "Samsung Galaxy J7 Pro",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736d41cc7880400553d5ffc",
+            "Ram": "3GB",
+            "Rom": "16/32/64 GB",
+            "Cpu": "Octa-core 1.6 GHz Cortex-A53",
+            "Chip":"Exynos 7870",
+            "Code":"J730F/DS",
+            "System":"Android 7.0 (Nougat), upgradable to Android 9.0 (Pie)"
+        },
+        {
+            "Id": 8,
+            "Title": "Samsung Galaxy J7",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736d394fdb3c20054c355d1",
+            "Ram": "3GB",
+            "Rom": "16GB",
+            "Cpu": "Octa-core 1.6 GHz Cortex-A53",
+            "Chip":"Exynos 7870",
+            "Code":"J730F/DS",
+            "System":"Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI"
+        },
+        {
+            "Id": 9,
+            "Title": "Samsung Galaxy J8",
+            "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j8-j800.jpg",
+            "Ram": "3GB",
+            "Rom": "32GB",
+            "Cpu": "Octa-core 1.6 GHz Cortex-A53",
+            "Chip":"Exynos 7870",
+            "Code":"J730F/DS",
+            "System":"Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI"
+        },
+        {
+            "Id": 10,
+            "Title": "Samsung Galaxy S7",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736e6fdfdb3c20054c35610",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53)",
+            "Chip":"Exynos 8890",
+            "Code":"G930F",
+            "System":"Android 6.0 (Marshmallow), upgradable to Android 8.0 (Oreo)"
+        },
+        {
+            "Id": 11,
+            "Title": "Samsung Galaxy S7e",
+            "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-.jpg",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53)",
+            "Chip":"Exynos 8890",
+            "Code":"G935F ",
+            "System":"Android 6.0 (Marshmallow), upgradable to Android 8.0 (Oreo), TouchWiz UI"
+        },
+        {
+            "Id": 12,
+            "Title": "Samsung Galaxy S8",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736e89dfdb3c20054c35639",
+            "Ram": "4GB",
+            "Rom": "64GB",
+            "Cpu": "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53)",
+            "Chip":"Exynos 8895",
+            "Code":"G950F",
+            "System":"Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI"
+        },
+        {
+            "Id": 13,
+            "Title": "Samsung Galaxy S8+",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736e89dfdb3c20054c35639",
+            "Ram": "4/6 GB",
+            "Rom": "64GB",
+            "Cpu": "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53)",
+            "Chip":"Exynos 8895",
+            "Code":"G950F",
+            "System":"Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI"
+        },
+        {
+            "Id": 14,
+            "Title": "Samsung Galaxy S9",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736e997d0a41c0054a8269e",
+            "Ram": "4GB",
+            "Rom": "64GB",
+            "Cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55)",
+            "Chip":"Exynos 9810",
+            "Code":"G960F",
+            "System":"Android 8.0 (Oreo), upgradable to Android 10"
+        },
+        {
+            "Id": 15,
+            "Title": "Samsung Galaxy S9+",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736e997d0a41c0054a8269e",
+            "Ram": "4/6 GB",
+            "Rom": "64GB",
+            "Cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55)",
+            "Chip":"Exynos 9810",
+            "Code":"G965F",
+            "System":"Android 8.0 (Oreo), upgradable to Android 10"
+        },
+        {
+            "Id": 16,
+            "Title": "Samsung Galaxy S10",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736ea8dfdb3c20054c35659",
+            "Ram": "6/8 GB",
+            "Rom": "128/512 GB",
+            "Cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55)",
+            "Chip":"Exynos 9820",
+            "Code":"SM-G973F/G973N",
+            "System":"Android 9.0 (Pie), upgradable to Android 12"
+        },
+        {
+            "Id": 17,
+            "Title": "Samsung Galaxy S10+",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736ea8dfdb3c20054c35659",
+            "Ram": "6/8/12 GB",
+            "Rom": "128GB",
+            "Cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55)",
+            "Chip":"Exynos 9820",
+            "Code":"SM-G975F/G975N",
+            "System":"Android 9.0 (Pie), upgradable to Android 12"
+        },
+        {
+            "Id": 18,
+            "Title": "Samsung Galaxy S10 5G",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736ea8dfdb3c20054c35659",
+            "Ram": "8GB",
+            "Rom": "256/512 GB",
+            "Cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55)",
+            "Chip":"Exynos 9820",
+            "Code":"SM-G977N",
+            "System":"Android 9.0 (Pie), upgradable to Android 12"
+        },
+        {
+            "Id": 19,
+            "Title": "Samsung Galaxy S10e",
+            "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10e.jpg",
+            "Ram": "6/8 GB",
+            "Rom": "128/256 GB",
+            "Cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55)",
+            "Chip":"Exynos 9820",
+            "Code":"SM-G970F/DS",
+            "System":"Android 9.0 (Pie), upgradable to Android 12"
+        },
+        {
+            "Id": 20,
+            "Title": "Samsung Galaxy S20/S20+",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736ebf6d132980055e2c201",
+            "Ram": "8GB",
+            "Rom": "128GB",
+            "Cpu": "Octa-core (2x2.73 GHz Mongoose M5 & 2x2.50 GHz Cortex-A76 & 4x2.0 GHz Cortex-A55)",
+            "Chip":"Exynos 990",
+            "Code":"Đang cập nhật",
+            "System":"Android 10, upgradable to Android 13"
+        },
+        {
+            "Id": 21,
+            "Title": "Samsung Galaxy Note 5",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736ec92fdb3c20054c3569b",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53))",
+            "Chip":"Exynos 7420",
+            "Code":"N920I N920G N920G/DS N920T N920A",
+            "System":"Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat)"
+        },
+        {
+            "Id": 22,
+            "Title": "Samsung Galaxy Note 8",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736ed19fdb3c20054c356d8",
+            "Ram": "6GB",
+            "Rom": "128GB",
+            "Cpu": "Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53)",
+            "Chip":"Exynos 8895",
+            "Code":"N950F",
+            "System":"Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie)"
+        },
+        {
+            "Id": 23,
+            "Title": "Samsung Galaxy Note 9",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736f518fdb3c20054c35747",
+            "Ram": "6/8 GB",
+            "Rom": "64GB",
+            "Cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55",
+            "Chip":"Exynos 9810",
+            "Code":"SM-N960N",
+            "System":"Android 8.1 (Oreo), upgradable to Android 10"
+        },
+        {
+            "Id": 24,
+            "Title": "Samsung Galaxy Note 9",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736f518fdb3c20054c35747",
+            "Ram": "6/8 GB",
+            "Rom": "128GB",
+            "Cpu": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55)",
+            "Chip":"Exynos 9810",
+            "Code":"SM-N960F/DS",
+            "System":"Android 8.1 (Oreo), upgradable to Android 10"
+        },
+        {
+            "Id": 25,
+            "Title": "Samsung Galaxy Note 10",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736f5c2d132980055e2c268",
+            "Ram": "8GB",
+            "Rom": "256GB",
+            "Cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55)",
+            "Chip":"Exynos 9825",
+            "Code":"SM-N970F",
+            "System":"Android 9.0 (Pie), upgradable to Android 12"
+        },
+        {
+            "Id": 26,
+            "Title": "Samsung Galaxy Note 10+",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736f5c2d132980055e2c268",
+            "Ram": "12GB",
+            "Rom": "256GB",
+            "Cpu": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55)",
+            "Chip":"Exynos 9825",
+            "Code":"SM-N976N",
+            "System":"Android 9.0 (Pie), upgradable to Android 12"
+        },
+        {
+            "Id": 27,
+            "Title": "Samsung Galaxy Z Flip 1-2",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736f60ed132980055e2c2ab",
+            "Ram": "8GB",
+            "Rom": "256GB",
+            "Cpu": "Octa-core (1x2.95 GHz Kryo 485 & 3x2.41 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
+            "Chip":"Snapdragon 855+",
+            "Code":"SM-F700F/DS",
+            "System":"Android 10, upgradable to Android 12"
+        },
+        {
+            "Id": 28,
+            "Title": "Samsung Galaxy Z Flip 3-4",
+            "ImageUrl": "https://embed.studio.binkies3d.com/live3d/6736f64bd132980055e2c2d8",
+            "Ram": "8GB",
+            "Rom": "128GB",
+            "Cpu": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+            "Chip":"Snapdragon 888",
+            "Code":"SM-F711N",
+            "System":"Android 11, upgradable to Android 14, One UI 6.1"
+        }
 ]
