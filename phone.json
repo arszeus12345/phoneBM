@@ -2,7 +2,7 @@
     {
     "Id": 1,
     "Title": "Samsung Galaxy A5",
-    "ImageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2017-new.jpg",
+    "ImageUrl": "../assets/img/pk/a5.jpg",
     "Ram": "3GB",
     "Rom": "32GB",
     "Cpu": "Exynos 7880"
