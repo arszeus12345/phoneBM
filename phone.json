@@ -29,7 +29,7 @@
     {
     "Id": 4,
     "Title": "Samsung Galaxy A7",
-    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a7.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/A7.jpg",
     "Ram": "3GB",
     "Rom": "32GB",
     "Code":"A720F - A720F/DS",
@@ -38,7 +38,7 @@
     {
     "Id": 5,
     "Title": "Samsung Galaxy A8",
-    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a8.png",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/A8.png",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"A530F -  A530F/DS",
@@ -47,7 +47,7 @@
     {
     "Id": 6,
     "Title": "Samsung Galaxy J6",
-    "ImageUrl": "https://bestmoon.vn/assets/img/cum/j6.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/J6.jpg",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"J600L",
@@ -92,7 +92,7 @@
     {
     "Id": 11,
     "Title": "Samsung Galaxy S7e",
-    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S7.edge",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S7edge.jpg",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"G935F ",
