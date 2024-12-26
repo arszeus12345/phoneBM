@@ -2,7 +2,7 @@
     {
     "Id": 1,
     "Title": "Samsung Galaxy A5",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "3GB",
     "Rom": "32GB",
     "Code":"A520F - A520F/DS",
@@ -11,7 +11,7 @@
     {
     "Id": 2,
     "Title": "Samsung Galaxy A6",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a6.png",
     "Ram": "3GB",
     "Rom": "32GB",
     "Code":"SM-A600G/DS",
@@ -20,7 +20,7 @@
     {
     "Id": 3,
     "Title": "Samsung Galaxy A6+",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a6.png",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"Đang cập nhật",
@@ -29,7 +29,7 @@
     {
     "Id": 4,
     "Title": "Samsung Galaxy A7",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a7.jpg",
     "Ram": "3GB",
     "Rom": "32GB",
     "Code":"A720F - A720F/DS",
@@ -38,7 +38,7 @@
     {
     "Id": 5,
     "Title": "Samsung Galaxy A8",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a8.png",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"A530F -  A530F/DS",
@@ -47,7 +47,7 @@
     {
     "Id": 6,
     "Title": "Samsung Galaxy J6",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/j6.jpg",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"J600L",
@@ -56,7 +56,7 @@
     {
     "Id": 7,
     "Title": "Samsung Galaxy J7 Pro",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/j7pro.jpg",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"J730F/G",
@@ -65,7 +65,7 @@
     {
     "Id": 8,
     "Title": "Samsung Galaxy J7",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"J710F",
@@ -74,7 +74,7 @@
     {
     "Id": 9,
     "Title": "Samsung Galaxy J8",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/J8.png",
     "Ram": "3GB",
     "Rom": "32GB",
     "Code":"J810Y/G",
@@ -83,7 +83,7 @@
     {
     "Id": 10,
     "Title": "Samsung Galaxy S7",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S7.jpg",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"G930F",
@@ -92,7 +92,7 @@
     {
     "Id": 11,
     "Title": "Samsung Galaxy S7e",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S7.edge",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"G935F ",
@@ -101,7 +101,7 @@
     {
     "Id": 12,
     "Title": "Samsung Galaxy S8",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S8.png",
     "Ram": "4GB",
     "Rom": "64GB",
     "Code":"G950F",
@@ -110,7 +110,7 @@
     {
     "Id": 13,
     "Title": "Samsung Galaxy S8+",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"G955F",
@@ -119,7 +119,7 @@
     {
     "Id": 14,
     "Title": "Samsung Galaxy S9",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S9.jpg",
     "Ram": "4GB",
     "Rom": "64GB",
     "Code":"G960F",
@@ -128,7 +128,7 @@
     {
     "Id": 15,
     "Title": "Samsung Galaxy S9+",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "6GB",
     "Rom": "64GB",
     "Code":"G965F",
@@ -137,7 +137,7 @@
     {
     "Id": 16,
     "Title": "Samsung Galaxy S10",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "8GB",
     "Rom": "128GB",
     "Code":"SM-G973F/G973N",
@@ -146,7 +146,7 @@
     {
     "Id": 17,
     "Title": "Samsung Galaxy S10+",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S10plus.jpg",
     "Ram": "8GB",
     "Rom": "128GB",
     "Code":"SM-G975F/G975N",
@@ -155,7 +155,7 @@
     {
     "Id": 18,
     "Title": "Samsung Galaxy S10 5G",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S10 5G.jpg",
     "Ram": "8GB",
     "Rom": "256GB",
     "Code":"SM-G977N",
@@ -164,7 +164,7 @@
     {
     "Id": 19,
     "Title": "Samsung Galaxy S10e",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "6GB",
     "Rom": "128GB",
     "Code":"SM-G970F/DS",
@@ -173,7 +173,7 @@
     {
     "Id": 20,
     "Title": "Samsung Galaxy S20/S20+",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/S20.jpg",
     "Ram": "8GB",
     "Rom": "128GB",
     "Code":"Đang cập nhật",
@@ -182,7 +182,7 @@
     {
     "Id": 21,
     "Title": "Samsung Galaxy Note 5",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/n5.png",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"N920G/N",
@@ -191,7 +191,7 @@
     {
     "Id": 22,
     "Title": "Samsung Galaxy Note 8",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/n8.jpg",
     "Ram": "6GB",
     "Rom": "64GB",
     "Code":"N950F",
@@ -200,7 +200,7 @@
     {
     "Id": 23,
     "Title": "Samsung Galaxy Note 9",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/Note9.jpg",
     "Ram": "6GB",
     "Rom": "64GB",
     "Code":"SM-N960N",
@@ -209,7 +209,7 @@
     {
     "Id": 24,
     "Title": "Samsung Galaxy Note 9",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "6GB",
     "Rom": "128GB",
     "Code":"SM-N960F/DS",
@@ -218,7 +218,7 @@
     {
     "Id": 25,
     "Title": "Samsung Galaxy Note 10",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "4GB",
     "Rom": "32GB",
     "Code":"SM-N970F",
@@ -227,7 +227,7 @@
     {
     "Id": 26,
     "Title": "Samsung Galaxy Note 10+",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/a5.jpg",
     "Ram": "12GB",
     "Rom": "256GB",
     "Code":"SM-N976N",
@@ -236,7 +236,7 @@
     {
     "Id": 27,
     "Title": "Samsung Galaxy Z Flip 1-2",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/Zflip.jpg",
     "Ram": "8GB",
     "Rom": "128GB",
     "Code":"Đang Cập Nhật",
@@ -245,7 +245,7 @@
     {
     "Id": 28,
     "Title": "Samsung Galaxy Z Flip 3-4",
-    "ImageUrl": "../assets/img/pk/a5.jpg",
+    "ImageUrl": "https://bestmoon.vn/assets/img/cum/Zflip3.jpg",
     "Ram": "8GB",
     "Rom": "128GB",
     "Code":"Đang Cập Nhật",
